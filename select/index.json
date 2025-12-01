@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Sucker for You",
+  "base_artist": "Matt Terry",
+  "createdAt": "2025-12-01T10:59:33.930796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There's One Born Every Minute (I'm A Sucker For You)",
+      "artist": "Jonathan Butler",
+      "has_synced": false,
+      "path": "select/01_There's_One_Born_Every_Minute_(I'm_A_Sucker_For_You)_Jonathan_Butler.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sucker for You",
+      "artist": "Matt Terry",
+      "has_synced": true,
+      "path": "select/02_Sucker_for_You_Matt_Terry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sucker For You",
+      "artist": "Michele Morrone",
+      "has_synced": false,
+      "path": "select/03_Sucker_For_You_Michele_Morrone.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sucker For You",
+      "artist": "Matt Terry",
+      "has_synced": true,
+      "path": "select/04_Sucker_For_You_Matt_Terry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sucker for You",
+      "artist": "Nea",
+      "has_synced": true,
+      "path": "select/05_Sucker_for_You_Nea.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sucker for You (Acoustic)",
+      "artist": "Matt Terry",
+      "has_synced": true,
+      "path": "select/06_Sucker_for_You_(Acoustic)_Matt_Terry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sucker for You (John Gibbons Remix)",
+      "artist": "Matt Terry",
+      "has_synced": true,
+      "path": "select/07_Sucker_for_You_(John_Gibbons_Remix)_Matt_Terry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Matt Terry - Sucker for You (Official Video)",
+      "artist": "Matt Terry",
+      "has_synced": true,
+      "path": "select/08_Matt_Terry_-_Sucker_for_You_(Official_Video)_Matt_Terry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sucker For You",
+      "artist": "Fresh Cut Slim",
+      "has_synced": false,
+      "path": "select/09_Sucker_For_You_Fresh_Cut_Slim.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sucker for You",
+      "artist": "Matt Terry",
+      "has_synced": false,
+      "path": "select/pl_01_Sucker_for_You_Matt_Terry.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Sucker for your love -Japanese ver.-",
+      "artist": "Matt Terry",
+      "has_synced": false,
+      "path": "select/pl_02_Sucker_for_your_love_-Japanese_ver.-_Matt_Terry.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Sucker for your love",
+      "artist": "Matt Terry",
+      "has_synced": false,
+      "path": "select/pl_03_Sucker_for_your_love_Matt_Terry.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Sucker for Your Marketing",
+      "artist": "Matt Terry",
+      "has_synced": false,
+      "path": "select/pl_04_Sucker_for_Your_Marketing_Matt_Terry.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Sucker for Your Love",
+      "artist": "Matt Terry",
+      "has_synced": false,
+      "path": "select/pl_05_Sucker_for_Your_Love_Matt_Terry.txt"
+    }
+  ]
+}
